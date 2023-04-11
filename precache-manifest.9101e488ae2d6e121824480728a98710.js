@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "dadc0e70ee1e16a06945",
-    "url": "/loginpage/static/js/main.d52c06b0.chunk.js"
+    "revision": "0c2490751bd60e9b988f",
+    "url": "/loginpage/static/js/main.2213b229.chunk.js"
   },
   {
     "revision": "a31d604db3f3c869db33",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/loginpage/static/js/2.9151ddd8.chunk.js"
   },
   {
-    "revision": "f49e295b7d14e9671aed2f6263af36fe",
+    "revision": "97fff82d1ef602fd88df43aff8a66f36",
     "url": "/loginpage/index.html"
   }
 ];
